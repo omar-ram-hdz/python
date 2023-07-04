@@ -1,0 +1,20 @@
+LED
+	o : Encender
+	a : apagar
+
+Alarma
+	e : encender
+	f : apagar
+
+Ultrasonido
+	u : recivir
+
+Puerta
+	p : encender
+	q : apagar
+
+Gas
+	g : recivir
+
+Humedad
+	h : recivir
